@@ -14,3 +14,8 @@ scrapy crawl cronjob
 ```bash
 scrapy crawl cronjob -o items.json
 ```
+
+- [RunShellTest]
+```bash
+scrapy shell <url>
+```
